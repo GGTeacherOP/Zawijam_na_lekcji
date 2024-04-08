@@ -1,6 +1,6 @@
 
 klasa_3AP = {
-    '22': 'jajecznica_z_cebulką_i_kiełbasą'
+    '22': 'jajecznica_z_cebulką_i_kiełbasą',
 }
 
 
