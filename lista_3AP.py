@@ -1,5 +1,7 @@
 
-klasa_3AP = {}
+klasa_3AP = {
+    '24': 'Extra ostry kebab'
+}
 
 
 osoba = {
@@ -8,3 +10,5 @@ osoba = {
 }
 
 print(osoba)
+print(klasa_3AP['24'])
+input()
