@@ -1,8 +1,9 @@
 
 klasa_3AP = {
 
-    '32': 'Kogielmogiel',
+    '17': 'Mieso ludzkie',
 
+    '32': 'Kogielmogiel',
 
     '30': 'Pizza',
 
@@ -15,6 +16,9 @@ klasa_3AP = {
 
 osoba = {
     '0': 'Imie Nazwisko',
+
+    '17': 'Adrian Kusek',
+
 
     '32': 'Paweł Garncarz'
 
