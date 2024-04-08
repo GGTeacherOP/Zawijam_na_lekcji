@@ -1,5 +1,8 @@
 
 klasa_3AP = {
+    '19': 'Suchy chleb',
+  
+    '30': "Pizza",
 
     '31': 'KEBAB BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO BARDZO OSTRY'
 
@@ -14,6 +17,10 @@ klasa_3AP = {
 osoba = {
     '0': 'Imie Nazwisko',
 
+    '30':'Mateusz Trzpis',
+
+    '19': 'Julian Madej',
+
     '31': 'Filip Zych',
 
     '25': 'Bartosz Rataj',
@@ -24,8 +31,10 @@ osoba = {
 }
 
 print(osoba)
+print(klasa_3AP['19'])
 print(klasa_3AP['22'])
 print(klasa_3AP['24'])
 print(klasa_3AP['25'])
+print(klasa_3AP['30'])
 print(klasa_3AP['31'])
 input()
