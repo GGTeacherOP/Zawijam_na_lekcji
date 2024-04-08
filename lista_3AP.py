@@ -1,5 +1,7 @@
 
-klasa_3AP = {}
+klasa_3AP = {
+    '30': 'Pizza',
+}
 
 
 osoba = {
