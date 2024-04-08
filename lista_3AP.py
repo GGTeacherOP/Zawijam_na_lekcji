@@ -11,3 +11,4 @@ osoba = {
 }
 
 print(osoba)
+print(klasa_3AP["30"])
