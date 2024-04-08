@@ -1,9 +1,13 @@
 
-klasa_3AP = {}
+klasa_3AP = {
+    '22': 'jajecznica_z_cebulką_i_kiełbasą'
+}
 
 
 osoba = {
-    '22': 'Radosław Mroczek'
+    '0': 'Imie Nazwisko',
+    '22': 'Radosław Mroczek',
 }
 
 print(osoba)
+print(klasa_3AP)
