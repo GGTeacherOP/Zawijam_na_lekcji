@@ -9,4 +9,5 @@ osoba = {
     '25': 'Bartosz Rataj',
 }
 
+print(klasa_3AP)
 print(osoba)
