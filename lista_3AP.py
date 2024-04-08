@@ -1,5 +1,7 @@
 
-klasa_3AP = {}
+klasa_3AP = {
+    '20': "Kebab XXL sos mieszany wołowina świerzutki",
+}
 
 
 osoba = {
@@ -8,3 +10,5 @@ osoba = {
 }
 
 print(osoba)
+
+print(klasa_3AP['20'])
