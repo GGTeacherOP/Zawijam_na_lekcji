@@ -1,5 +1,7 @@
 
-klasa_3AP = {}
+klasa_3AP = {
+    '18': 'kreatyna',
+}
 
 
 osoba = {
@@ -8,3 +10,4 @@ osoba = {
 }
 
 print(osoba)
+print(klasa_3AP['18'])
